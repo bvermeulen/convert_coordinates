@@ -1,6 +1,6 @@
 # Convert coordinates (PSD93 Oman)
 
-A little app in pyqt to make conversions from geopraphic (WGS84) and PSD93 projection and UTM 40N. 
+A little app in pyqt to make conversions between geodetic (WGS84) and PSD93 and UTM 40N projections. 
 
 ![main page](convert_main.png)
 
