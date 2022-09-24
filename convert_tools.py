@@ -1,8 +1,7 @@
 '''
-    Module for conversion tools for WGS84, UTM 40N and PSD93
-    note the module maintains consistency in x, y; easting, northing; and
+    Module for conversion tools for WGS84, PSD93 and UTM 40N
+    Note: the module maintains consistency in x, y; easting, northing; and
     longitude, latitude, where x is the first and y is the second argument
-    grid conversion is project dependent
 '''
 import re
 from shapely.geometry import Point
